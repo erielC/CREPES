@@ -16,11 +16,7 @@ pip install -r libraries_required.txt
 
 # Deactivate when done
 deactivate
-
-### Installing project packages
-```bash
-pip install -r libraries_required.txt
-````
+```
 
 #### Windows
 ```cmd
